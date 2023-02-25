@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    width: 800px;
+    height: 800px;
+    background: rgb(183, 241, 255);
+    position: relative;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid black;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.block {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+input {
+    margin-top: 10px;
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    border: solid darkred 3px;
+    background: rgb(255, 104, 104);
+    color: darkgreen;
+    transition: 0.5s;
+}
+input:focus {
+    
+    border: solid green 3px;
+    background: rgb(192, 255, 98);
+    color: darkgreen;
+}
+button {
+    margin-top: 10px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+button:hover {
+    background: rgb(70, 209, 255);
+    border: solid blue 2px;
+    color: blue;
+}

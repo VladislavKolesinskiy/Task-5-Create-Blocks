@@ -1,0 +1,60 @@
+{
+  "styleBlock": [
+    {
+      "bg": "45",
+      "width": "45px",
+      "height": "bluepx",
+      "top": "504px",
+      "left": "345px",
+      "id": 1
+    },
+    {
+      "width": "99px",
+      "height": "greenpx",
+      "bg": "99",
+      "top": "525px",
+      "left": "46px",
+      "id": 2
+    },
+    {
+      "width": "100px",
+      "height": "100px",
+      "bg": "black",
+      "top": "371px",
+      "left": "718px",
+      "id": 3
+    },
+    {
+      "width": "500px",
+      "height": "500px",
+      "bg": "purple",
+      "top": "753px",
+      "left": "557px",
+      "id": 4
+    },
+    {
+      "width": "60px",
+      "height": "60px",
+      "bg": "yellow",
+      "top": "0px",
+      "left": "0px",
+      "id": 5
+    },
+    {
+      "width": "70px",
+      "height": "70px",
+      "bg": "orange",
+      "top": "72px",
+      "left": "246px",
+      "id": 6
+    },
+    {
+      "width": "500px",
+      "height": "500px",
+      "bg": "gray",
+      "top": "212px",
+      "left": "777px",
+      "id": 7
+    }
+  ]
+}
